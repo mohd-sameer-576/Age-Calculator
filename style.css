@@ -65,7 +65,7 @@ body{
     box-shadow: inset 0 0 0.5rem 0 #00ff00, 0 0 0.5rem 0 #00ff00;
 }
 
-.container .sub-btn input:hover{
+.container .sub-btn input:active{
     background-color: bisque;
     color: black;
     box-shadow: inset 0 0 0.5rem 0 bisque;
